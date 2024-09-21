@@ -59,7 +59,3 @@ Sure! Here’s a high-level architecture for an application that classifies food
 4. **Result Display**: The classification result and confidence score are sent back to the UI and displayed to the user.
 5. **User Feedback**: Users can provide feedback on the classification, which is stored in the database for future model improvement.
 6. **Model Retraining**: Periodically, new data and feedback are used to retrain the model to improve accuracy.
-
-### Summary
-
-This architecture provides a structured approach to building a food texture classification application using Python. Each component is designed to work together, ensuring a smooth flow from image upload to classification and feedback, allowing for continuous improvement of the model.
